@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\VScode\Mlops\Mlops-Experiments-MLFlow\mlruns/258104398695167626/1291af2c42444666833ffc1b2c7b5766/artifacts
+end_time: 1767541083491
+entry_point_name: ''
+experiment_id: '258104398695167626'
+lifecycle_stage: active
+run_id: 1291af2c42444666833ffc1b2c7b5766
+run_name: sneaky-wren-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767541076375
+status: 3
+tags: []
+user_id: mhd_shibili

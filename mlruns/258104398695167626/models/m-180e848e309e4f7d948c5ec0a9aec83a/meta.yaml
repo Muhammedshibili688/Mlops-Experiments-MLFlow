@@ -1,0 +1,10 @@
+artifact_location: file:///C:\VScode\Mlops\Mlops-Experiments-MLFlow\mlruns/258104398695167626/models/m-180e848e309e4f7d948c5ec0a9aec83a/artifacts
+creation_timestamp: 1767541015263
+experiment_id: '258104398695167626'
+last_updated_timestamp: 1767541023086
+model_id: m-180e848e309e4f7d948c5ec0a9aec83a
+model_type: null
+name: Random Forest Classifier
+source_run_id: 7e91726417a642a9bc09020859a5db62
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\VScode\Mlops\Mlops-Experiments-MLFlow\mlruns/258104398695167626/57b051307c4247a69e5fa18c535073b3/artifacts
+end_time: 1767504660903
+entry_point_name: ''
+experiment_id: '258104398695167626'
+lifecycle_stage: active
+run_id: 57b051307c4247a69e5fa18c535073b3
+run_name: wise-lamb-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767504660490
+status: 3
+tags: []
+user_id: mhd_shibili

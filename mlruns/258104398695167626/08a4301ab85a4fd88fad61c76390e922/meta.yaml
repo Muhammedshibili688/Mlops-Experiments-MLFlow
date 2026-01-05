@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\VScode\Mlops\Mlops-Experiments-MLFlow\mlruns/258104398695167626/08a4301ab85a4fd88fad61c76390e922/artifacts
+end_time: 1767540962880
+entry_point_name: ''
+experiment_id: '258104398695167626'
+lifecycle_stage: active
+run_id: 08a4301ab85a4fd88fad61c76390e922
+run_name: exultant-shad-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767540962509
+status: 4
+tags: []
+user_id: mhd_shibili

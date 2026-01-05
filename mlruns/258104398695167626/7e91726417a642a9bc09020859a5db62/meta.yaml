@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\VScode\Mlops\Mlops-Experiments-MLFlow\mlruns/258104398695167626/7e91726417a642a9bc09020859a5db62/artifacts
+end_time: 1767541023107
+entry_point_name: ''
+experiment_id: '258104398695167626'
+lifecycle_stage: active
+run_id: 7e91726417a642a9bc09020859a5db62
+run_name: fun-skink-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767541014866
+status: 4
+tags: []
+user_id: mhd_shibili
