@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/f87c53c0ff7844bb8e072661416625e3/artifacts
+end_time: 1767635463304
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: f87c53c0ff7844bb8e072661416625e3
+run_name: zealous-worm-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635463222
+status: 3
+tags: []
+user_id: mhd_shibili

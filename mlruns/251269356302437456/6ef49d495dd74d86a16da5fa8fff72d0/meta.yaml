@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/6ef49d495dd74d86a16da5fa8fff72d0/artifacts
+end_time: 1767635709107
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 6ef49d495dd74d86a16da5fa8fff72d0
+run_name: dapper-shrimp-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709043
+status: 3
+tags: []
+user_id: mhd_shibili

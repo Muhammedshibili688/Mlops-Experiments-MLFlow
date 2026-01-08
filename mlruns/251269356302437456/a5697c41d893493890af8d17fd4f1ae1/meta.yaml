@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/a5697c41d893493890af8d17fd4f1ae1/artifacts
+end_time: 1767635709466
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: a5697c41d893493890af8d17fd4f1ae1
+run_name: unique-bug-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709403
+status: 3
+tags: []
+user_id: mhd_shibili

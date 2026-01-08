@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/7a4c3ffb21634a64af00dcc604903634/artifacts
+end_time: 1767635464086
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 7a4c3ffb21634a64af00dcc604903634
+run_name: defiant-shoat-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635464011
+status: 3
+tags: []
+user_id: mhd_shibili

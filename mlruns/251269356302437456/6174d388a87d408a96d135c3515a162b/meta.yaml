@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/6174d388a87d408a96d135c3515a162b/artifacts
+end_time: 1767635709324
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 6174d388a87d408a96d135c3515a162b
+run_name: gaudy-shoat-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709260
+status: 3
+tags: []
+user_id: mhd_shibili

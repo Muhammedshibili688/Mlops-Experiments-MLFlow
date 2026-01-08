@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/53f1bc65a2c3420f96ea3e3bf3eab2c2/artifacts
+end_time: 1767635463376
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 53f1bc65a2c3420f96ea3e3bf3eab2c2
+run_name: masked-stork-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635463313
+status: 3
+tags: []
+user_id: mhd_shibili

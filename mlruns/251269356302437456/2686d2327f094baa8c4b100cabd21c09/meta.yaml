@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/2686d2327f094baa8c4b100cabd21c09/artifacts
+end_time: 1767635463584
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 2686d2327f094baa8c4b100cabd21c09
+run_name: unruly-dove-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635463522
+status: 3
+tags: []
+user_id: mhd_shibili

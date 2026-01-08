@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/9c0f42d5053e41acae092f20fdc09464/artifacts
+end_time: 1767635709698
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 9c0f42d5053e41acae092f20fdc09464
+run_name: sedate-doe-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709625
+status: 3
+tags: []
+user_id: mhd_shibili

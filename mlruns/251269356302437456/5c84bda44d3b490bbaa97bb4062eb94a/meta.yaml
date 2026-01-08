@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/5c84bda44d3b490bbaa97bb4062eb94a/artifacts
+end_time: 1767635463841
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 5c84bda44d3b490bbaa97bb4062eb94a
+run_name: masked-bass-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635463745
+status: 3
+tags: []
+user_id: mhd_shibili

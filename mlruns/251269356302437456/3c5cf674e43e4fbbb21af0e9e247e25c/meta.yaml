@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/3c5cf674e43e4fbbb21af0e9e247e25c/artifacts
+end_time: 1767635709403
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 3c5cf674e43e4fbbb21af0e9e247e25c
+run_name: brawny-mare-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709339
+status: 3
+tags: []
+user_id: mhd_shibili

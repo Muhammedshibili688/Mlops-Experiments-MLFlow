@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/fb55c894345b42b28066a62a0a44c617/artifacts
+end_time: 1767635463213
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: fb55c894345b42b28066a62a0a44c617
+run_name: bustling-fly-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635463142
+status: 3
+tags: []
+user_id: mhd_shibili

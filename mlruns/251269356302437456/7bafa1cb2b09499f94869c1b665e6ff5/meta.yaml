@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/7bafa1cb2b09499f94869c1b665e6ff5/artifacts
+end_time: 1767635709028
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 7bafa1cb2b09499f94869c1b665e6ff5
+run_name: charming-bird-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635708966
+status: 3
+tags: []
+user_id: mhd_shibili

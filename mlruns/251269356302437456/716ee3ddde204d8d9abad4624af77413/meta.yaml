@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/716ee3ddde204d8d9abad4624af77413/artifacts
+end_time: 1767635470582
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 716ee3ddde204d8d9abad4624af77413
+run_name: nosy-foal-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635454697
+status: 3
+tags: []
+user_id: mhd_shibili

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/ac127c3704ba4e0ca9567b982b12face/artifacts
+end_time: 1767635709625
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: ac127c3704ba4e0ca9567b982b12face
+run_name: thundering-newt-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709561
+status: 3
+tags: []
+user_id: mhd_shibili

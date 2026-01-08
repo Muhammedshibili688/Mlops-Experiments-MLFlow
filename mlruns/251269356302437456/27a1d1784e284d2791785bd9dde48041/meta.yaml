@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/27a1d1784e284d2791785bd9dde48041/artifacts
+end_time: 1767635709187
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: 27a1d1784e284d2791785bd9dde48041
+run_name: magnificent-bat-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709123
+status: 3
+tags: []
+user_id: mhd_shibili

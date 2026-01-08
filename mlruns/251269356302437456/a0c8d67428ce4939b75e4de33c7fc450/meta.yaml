@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/a0c8d67428ce4939b75e4de33c7fc450/artifacts
+end_time: 1767635709771
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: a0c8d67428ce4939b75e4de33c7fc450
+run_name: bedecked-fawn-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635709705
+status: 3
+tags: []
+user_id: mhd_shibili

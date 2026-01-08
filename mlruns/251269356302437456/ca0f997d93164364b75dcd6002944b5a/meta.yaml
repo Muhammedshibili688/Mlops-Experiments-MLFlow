@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/ca0f997d93164364b75dcd6002944b5a/artifacts
+end_time: 1767635463653
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: ca0f997d93164364b75dcd6002944b5a
+run_name: carefree-shrew-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635463591
+status: 3
+tags: []
+user_id: mhd_shibili

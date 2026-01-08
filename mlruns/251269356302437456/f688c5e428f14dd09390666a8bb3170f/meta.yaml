@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/VScode/Mlops/Mlops-Experiments-MLFlow/mlruns/251269356302437456/f688c5e428f14dd09390666a8bb3170f/artifacts
+end_time: 1767635464002
+entry_point_name: ''
+experiment_id: '251269356302437456'
+lifecycle_stage: active
+run_id: f688c5e428f14dd09390666a8bb3170f
+run_name: fearless-boar-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767635463927
+status: 3
+tags: []
+user_id: mhd_shibili
